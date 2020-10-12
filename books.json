@@ -8,7 +8,7 @@
         {
           "lessonTitle": "Lesson 1: Introductory Lesson",
           "lessonSubtitle": "Why am I learning English?",
-          "lessonAvaliable": true,
+          "lessonAvaliable": false,
           "objectives": [
             {
               "objectiveDescription": "I will learn how the EnglishConnect course can help me learn English."
