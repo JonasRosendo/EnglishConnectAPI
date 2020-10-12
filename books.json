@@ -1,0 +1,177 @@
+{
+  "books": [
+    {
+      "bookTitle": "EnglishConnect 1",
+      "bookAvaliable": true,
+      "lessons": [
+        {
+          "lessonTitle": "Lesson 1: Introductory Lesson",
+          "lessonSubtitle": "Why am I learning English?",
+          "lessonAvaliable": true,
+          "objectives": [
+            {
+              "objectiveDescription": "I will learn how the EnglishConnect course can help me learn English."
+            },
+            {
+              "objectiveDescription": "I will learn how to use My English Practice Plan."
+            },
+            {
+              "objectiveDescription": "I will learn to say the English alphabet."
+            },
+            {
+              "objectiveDescription": "I will learn to spell my name."
+            }
+          ],
+          "targetPhrases": [
+            {
+              "phrase": "Please"
+            },
+            {
+              "phrase": "Repeat"
+            },
+            {
+              "phrase": "Write"
+            },
+            {
+              "phrase": "Say"
+            },
+            {
+              "phrase": "Listen"
+            },
+            {
+              "phrase": "Thank you"
+            },
+            {
+              "phrase": "Could you spell that, please?"
+            },
+            {
+              "phrase": "Could you repeat that, please?"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "A"
+            },
+            {
+              "word": "B"
+            },
+            {
+              "word": "C"
+            },
+            {
+              "word": "D"
+            },
+            {
+              "word": "E"
+            },
+            {
+              "word": "F"
+            },
+            {
+              "word": "G"
+            },
+            {
+              "word": "H"
+            },
+            {
+              "word": "I"
+            },
+            {
+              "word": "J"
+            },
+            {
+              "word": "K"
+            },
+            {
+              "word": "L"
+            },
+            {
+              "word": "M"
+            },
+            {
+              "word": "N"
+            },
+            {
+              "word": "O"
+            },
+            {
+              "word": "P"
+            },
+            {
+              "word": "Q"
+            },
+            {
+              "word": "R"
+            },
+            {
+              "word": "S"
+            },
+            {
+              "word": "T"
+            },
+            {
+              "word": "U"
+            },
+            {
+              "word": "V"
+            },
+            {
+              "word": "W"
+            },
+            {
+              "word": "X"
+            },
+            {
+              "word": "Y"
+            },
+            {
+              "word": "Z"
+            }
+          ],
+          "lessonConversations": [
+            {
+              "conversationTitle": "Conversation",
+              "conversation": [
+                {
+                  "phrase": "Hello. What is your name?",
+                  "speaker": "A",
+                  "order": 1
+                },
+                {
+                  "phrase": "Daniel.",
+                  "speaker": "B",
+                  "order": 2
+                },
+                {
+                  "phrase": "Could you spell that, please?",
+                  "speaker": "A",
+                  "order": 3
+                },
+                {
+                  "phrase": "D-A-N-I-E-L",
+                  "speaker": "B",
+                  "order": 4
+                },
+                {
+                  "phrase": "Could you repeat that, please?",
+                  "speaker": "A",
+                  "order": 5
+                },
+                {
+                  "phrase": "D-A-N-I-E-L",
+                  "speaker": "B",
+                  "order": 6
+                },
+                {
+                  "phrase": "Thank you!",
+                  "speaker": "A",
+                  "order": 7
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
