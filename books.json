@@ -52,82 +52,108 @@
           ],
           "vocabulary": [
             {
-              "word": "A"
+              "word": "A",
+              "category": "alphabet"
             },
             {
-              "word": "B"
+              "word": "B",
+              "category": "alphabet"
             },
             {
-              "word": "C"
+              "word": "C",
+              "category": "alphabet"
             },
             {
-              "word": "D"
+              "word": "D",
+              "category": "alphabet"
             },
             {
-              "word": "E"
+              "word": "E",
+              "category": "alphabet"
             },
             {
-              "word": "F"
+              "word": "F",
+              "category": "alphabet"
             },
             {
-              "word": "G"
+              "word": "G",
+              "category": "alphabet"
             },
             {
-              "word": "H"
+              "word": "H",
+              "category": "alphabet"
             },
             {
-              "word": "I"
+              "word": "I",
+              "category": "alphabet"
             },
             {
-              "word": "J"
+              "word": "J",
+              "category": "alphabet"
             },
             {
-              "word": "K"
+              "word": "K",
+              "category": "alphabet"
             },
             {
-              "word": "L"
+              "word": "L",
+              "category": "alphabet"
             },
             {
-              "word": "M"
+              "word": "M",
+              "category": "alphabet"
             },
             {
-              "word": "N"
+              "word": "N",
+              "category": "alphabet"
             },
             {
-              "word": "O"
+              "word": "O",
+              "category": "alphabet"
             },
             {
-              "word": "P"
+              "word": "P",
+              "category": "alphabet"
             },
             {
-              "word": "Q"
+              "word": "Q",
+              "category": "alphabet"
             },
             {
-              "word": "R"
+              "word": "R",
+              "category": "alphabet"
             },
             {
-              "word": "S"
+              "word": "S",
+              "category": "alphabet"
             },
             {
-              "word": "T"
+              "word": "T",
+              "category": "alphabet"
             },
             {
-              "word": "U"
+              "word": "U",
+              "category": "alphabet"
             },
             {
-              "word": "V"
+              "word": "V",
+              "category": "alphabet"
             },
             {
-              "word": "W"
+              "word": "W",
+              "category": "alphabet"
             },
             {
-              "word": "X"
+              "word": "X",
+              "category": "alphabet"
             },
             {
-              "word": "Y"
+              "word": "Y",
+              "category": "alphabet"
             },
             {
-              "word": "Z"
+              "word": "Z",
+              "category": "alphabet"
             }
           ],
           "lessonConversations": [
