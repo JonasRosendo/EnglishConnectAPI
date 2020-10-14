@@ -8,7 +8,7 @@
         {
           "lessonTitle": "Lesson 1: Introductory Lesson",
           "lessonSubtitle": "Why am I learning English?",
-          "lessonAvaliable": false,
+          "lessonAvaliable": true,
           "lessonOrder": 1,
           "objectives": [
             {
