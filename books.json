@@ -1,5 +1,4 @@
-{
-  "books": [
+
     {
       "bookTitle": "EnglishConnect 1",
       "bookOrder": 1,
@@ -257,5 +256,4 @@
         }
       ]
     }
-  ]
-}
+
