@@ -50,7 +50,7 @@
               "phrase": "Could you repeat that, please?"
             }
           ],
-           "vocabulary": [
+          "vocabulary": [
             {
               "category": "alphabet",
               "words": [
@@ -121,6 +121,135 @@
                   "phrase": "Thank you!",
                   "speaker": "A",
                   "order": 7
+                }
+              ]
+            },
+            {
+              "lessonTitle": "LESSON 2: GREETINGS AND INTRODUCTIONS",
+              "lessonSubtitle": "How are you?",
+              "lessonAvaliable": true,
+              "lessonOrder": 2,
+              "objectives": [
+                {
+                  "objectiveDescription": "I will learn to say hello and good-bye."
+                },
+                {
+                  "objectiveDescription": ". I will learn to say my name."
+                },
+                {
+                  "objectiveDescription": ". I will learn to ask people’s names and where they are from."
+                }
+              ],
+              "targetPhrases": [],
+              "vocabulary": [
+                {
+                  "category": "countries",
+                  "words": [
+                    "Brazil",
+                    "Australia",
+                    "Germany",
+                    "South Africa",
+                    "The United States",
+                    "Japan"
+                  ]
+                },
+                {
+                  "category": "cities",
+                  "words": [
+                    "Brasilia",
+                    "Sidney",
+                    "Berlin",
+                    "Johannesburg",
+                    "New York",
+                    "Tokyo"
+                  ]
+                }
+              ],
+              "lessonConversations": [
+                {
+                  "conversationTitle": "Conversation 1: Meeting Someone New",
+                  "conversation": [
+                    {
+                      "phrase": "Good morning!",
+                      "speaker": "A",
+                      "order": 1
+                    },
+                    {
+                      "phrase": "Hi! What’s your name?",
+                      "speaker": "B",
+                      "order": 2
+                    },
+                    {
+                      "phrase": "My name is Misah. What’s your name?",
+                      "speaker": "A",
+                      "order": 3
+                    },
+                    {
+                      "phrase": "I’m Aki. Where are you from?",
+                      "speaker": "B",
+                      "order": 4
+                    },
+                    {
+                      "phrase": "I’m from Moscow. Where are you from?",
+                      "speaker": "A",
+                      "order": 5
+                    },
+                    {
+                      "phrase": "I’m from Tokyo.",
+                      "speaker": "B",
+                      "order": 6
+                    },
+                    {
+                      "phrase": "Well, it’s nice to meet you.",
+                      "speaker": "A",
+                      "order": 7
+                    },
+                    {
+                      "phrase": "Nice to meet you too.",
+                      "speaker": "B",
+                      "order": 8
+                    }
+                  ]
+                },
+                {
+                  "conversationTitle": "Conversation 2: Greeting a Friend",
+                  "conversation": [
+                    {
+                      "phrase": "Hello!",
+                      "speaker": "A",
+                      "order": 1
+                    },
+                    {
+                      "phrase": "Hi! How are you?",
+                      "speaker": "B",
+                      "order": 2
+                    },
+                    {
+                      "phrase": "Fine, thanks. How are you?",
+                      "speaker": "A",
+                      "order": 3
+                    },
+                    {
+                      "phrase": "I’m fine.",
+                      "speaker": "B",
+                      "order": 4
+                    }
+                  ]
+                },
+                {
+                  "conversationTitle": "Conversation 3: Ending a Conversation",
+                  "conversation": [
+                    {
+                      "phrase": "Bye!",
+                      "speaker": "A",
+                      "order": 1
+                    },
+                    {
+                      "phrase": "See you later.",
+                      "speaker": "B",
+                      "order": 2
+                    }
+                  ]
                 }
               ]
             }
