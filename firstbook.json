@@ -82,10 +82,10 @@
               ]
             }
           ],
-          "lessonConversations": [
+          "conversations": [
             {
               "conversationTitle": "Conversation",
-              "conversation": [
+              "dialogs": [
                 {
                   "phrase": "Hello. What is your name?",
                   "speaker": "A",
@@ -166,10 +166,10 @@
               ]
             }
           ],
-          "lessonConversations": [
+          "conversations": [
             {
               "conversationTitle": "Conversation 1: Meeting Someone New",
-              "conversation": [
+              "dialogs": [
                 {
                   "phrase": "Good morning!",
                   "speaker": "A",
@@ -214,7 +214,7 @@
             },
             {
               "conversationTitle": "Conversation 2: Greeting a Friend",
-              "conversation": [
+              "dialogs": [
                 {
                   "phrase": "Hello!",
                   "speaker": "A",
@@ -239,7 +239,7 @@
             },
             {
               "conversationTitle": "Conversation 3: Ending a Conversation",
-              "conversation": [
+              "dialogs": [
                 {
                   "phrase": "Bye!",
                   "speaker": "A",
