@@ -267,14 +267,30 @@
         }
       ],
       "targetPhrases": [
-        "When is your birthday?",
-        "My birthday is July 11th.",
-        "What’s your phone number?",
-        "My phone number is 706-863-9400.",
-        "What’s your address?",
-        "My address is 512 West Fourth Street.",
-        "What’s your email?",
-        "My email is susanjones@email.net."
+        {
+          "phrase": "When is your birthday?"
+        },
+        {
+          "phrase": "My birthday is July 11th."
+        },
+        {
+          "phrase": "What’s your phone number?"
+        },
+        {
+          "phrase": "My phone number is 706-863-9400."
+        },
+        {
+          "phrase": "What’s your address?"
+        },
+        {
+          "phrase": "My address is 512 West Fourth Street."
+        },
+        {
+          "phrase": "What’s your email?"
+        },
+        {
+          "phrase": "My email is susanjones@email.net."
+        }
       ],
       "vocabulary": [
         {
