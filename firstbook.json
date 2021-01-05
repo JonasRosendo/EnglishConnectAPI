@@ -1,259 +1,393 @@
-
+{
+  "bookTitle": "EnglishConnect 1",
+  "bookOrder": 1,
+  "bookAvaliable": true,
+  "lessons": [
     {
-      "bookTitle": "EnglishConnect 1",
-      "bookOrder": 1,
-      "bookAvaliable": true,
-      "lessons": [
+      "lessonTitle": "Lesson 1: Introductory Lesson",
+      "lessonSubtitle": "Why am I learning English?",
+      "lessonAvaliable": true,
+      "lessonOrder": 1,
+      "objectives": [
         {
-          "lessonTitle": "Lesson 1: Introductory Lesson",
-          "lessonSubtitle": "Why am I learning English?",
-          "lessonAvaliable": true,
-          "lessonOrder": 1,
-          "objectives": [
+          "objectiveDescription": "I will learn how the EnglishConnect course can help me learn English."
+        },
+        {
+          "objectiveDescription": "I will learn how to use My English Practice Plan."
+        },
+        {
+          "objectiveDescription": "I will learn to say the English alphabet."
+        },
+        {
+          "objectiveDescription": "I will learn to spell my name."
+        }
+      ],
+      "targetPhrases": [
+        {
+          "phrase": "Please"
+        },
+        {
+          "phrase": "Repeat"
+        },
+        {
+          "phrase": "Write"
+        },
+        {
+          "phrase": "Say"
+        },
+        {
+          "phrase": "Listen"
+        },
+        {
+          "phrase": "Thank you"
+        },
+        {
+          "phrase": "Could you spell that, please?"
+        },
+        {
+          "phrase": "Could you repeat that, please?"
+        }
+      ],
+      "vocabulary": [
+        {
+          "category": "alphabet",
+          "words": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "O",
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T",
+            "U",
+            "V",
+            "W",
+            "X",
+            "Y",
+            "Z"
+          ]
+        }
+      ],
+      "conversations": [
+        {
+          "conversationTitle": "Conversation",
+          "dialogs": [
             {
-              "objectiveDescription": "I will learn how the EnglishConnect course can help me learn English."
+              "phrase": "Hello. What is your name?",
+              "speaker": "A",
+              "order": 1
             },
             {
-              "objectiveDescription": "I will learn how to use My English Practice Plan."
+              "phrase": "Daniel.",
+              "speaker": "B",
+              "order": 2
             },
             {
-              "objectiveDescription": "I will learn to say the English alphabet."
+              "phrase": "Could you spell that, please?",
+              "speaker": "A",
+              "order": 3
             },
             {
-              "objectiveDescription": "I will learn to spell my name."
+              "phrase": "D-A-N-I-E-L",
+              "speaker": "B",
+              "order": 4
+            },
+            {
+              "phrase": "Could you repeat that, please?",
+              "speaker": "A",
+              "order": 5
+            },
+            {
+              "phrase": "D-A-N-I-E-L",
+              "speaker": "B",
+              "order": 6
+            },
+            {
+              "phrase": "Thank you!",
+              "speaker": "A",
+              "order": 7
             }
-          ],
-          "targetPhrases": [
+          ]
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Lesson 2: Greetings and Introductions",
+      "lessonSubtitle": "How are you?",
+      "lessonAvaliable": true,
+      "lessonOrder": 2,
+      "objectives": [
+        {
+          "objectiveDescription": "I will learn to say hello and good-bye."
+        },
+        {
+          "objectiveDescription": "I will learn to say my name."
+        },
+        {
+          "objectiveDescription": "I will learn to ask people’s names and where they are from."
+        }
+      ],
+      "targetPhrases": [],
+      "vocabulary": [
+        {
+          "category": "countries",
+          "words": [
+            "Brazil",
+            "Australia",
+            "Germany",
+            "South Africa",
+            "The United States",
+            "Japan"
+          ]
+        },
+        {
+          "category": "cities",
+          "words": [
+            "Brasilia",
+            "Sidney",
+            "Berlin",
+            "Durban",
+            "New York",
+            "Tokyo"
+          ]
+        }
+      ],
+      "conversations": [
+        {
+          "conversationTitle": "Conversation 1: Meeting Someone New",
+          "dialogs": [
             {
-              "phrase": "Please"
+              "phrase": "Good morning!",
+              "speaker": "A",
+              "order": 1
             },
             {
-              "phrase": "Repeat"
+              "phrase": "Hi! What’s your name?",
+              "speaker": "B",
+              "order": 2
             },
             {
-              "phrase": "Write"
+              "phrase": "My name is Misah. What’s your name?",
+              "speaker": "A",
+              "order": 3
             },
             {
-              "phrase": "Say"
+              "phrase": "I’m Aki. Where are you from?",
+              "speaker": "B",
+              "order": 4
             },
             {
-              "phrase": "Listen"
+              "phrase": "I’m from Moscow. Where are you from?",
+              "speaker": "A",
+              "order": 5
             },
             {
-              "phrase": "Thank you"
+              "phrase": "I’m from Tokyo.",
+              "speaker": "B",
+              "order": 6
             },
             {
-              "phrase": "Could you spell that, please?"
+              "phrase": "Well, it’s nice to meet you.",
+              "speaker": "A",
+              "order": 7
             },
             {
-              "phrase": "Could you repeat that, please?"
-            }
-          ],
-          "vocabulary": [
-            {
-              "category": "alphabet",
-              "words": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E",
-                "F",
-                "G",
-                "H",
-                "I",
-                "J",
-                "K",
-                "L",
-                "M",
-                "N",
-                "O",
-                "P",
-                "Q",
-                "R",
-                "S",
-                "T",
-                "U",
-                "V",
-                "W",
-                "X",
-                "Y",
-                "Z"
-              ]
-            }
-          ],
-          "conversations": [
-            {
-              "conversationTitle": "Conversation",
-              "dialogs": [
-                {
-                  "phrase": "Hello. What is your name?",
-                  "speaker": "A",
-                  "order": 1
-                },
-                {
-                  "phrase": "Daniel.",
-                  "speaker": "B",
-                  "order": 2
-                },
-                {
-                  "phrase": "Could you spell that, please?",
-                  "speaker": "A",
-                  "order": 3
-                },
-                {
-                  "phrase": "D-A-N-I-E-L",
-                  "speaker": "B",
-                  "order": 4
-                },
-                {
-                  "phrase": "Could you repeat that, please?",
-                  "speaker": "A",
-                  "order": 5
-                },
-                {
-                  "phrase": "D-A-N-I-E-L",
-                  "speaker": "B",
-                  "order": 6
-                },
-                {
-                  "phrase": "Thank you!",
-                  "speaker": "A",
-                  "order": 7
-                }
-              ]
+              "phrase": "Nice to meet you too.",
+              "speaker": "B",
+              "order": 8
             }
           ]
         },
         {
-          "lessonTitle": "Lesson 2: Greetings and Introductions",
-          "lessonSubtitle": "How are you?",
-          "lessonAvaliable": true,
-          "lessonOrder": 2,
-          "objectives": [
+          "conversationTitle": "Conversation 2: Greeting a Friend",
+          "dialogs": [
             {
-              "objectiveDescription": "I will learn to say hello and good-bye."
+              "phrase": "Hello!",
+              "speaker": "A",
+              "order": 1
             },
             {
-              "objectiveDescription": "I will learn to say my name."
+              "phrase": "Hi! How are you?",
+              "speaker": "B",
+              "order": 2
             },
             {
-              "objectiveDescription": "I will learn to ask people’s names and where they are from."
+              "phrase": "Fine, thanks. How are you?",
+              "speaker": "A",
+              "order": 3
+            },
+            {
+              "phrase": "I’m fine.",
+              "speaker": "B",
+              "order": 4
             }
-          ],
-          "targetPhrases": [],
-          "vocabulary": [
+          ]
+        },
+        {
+          "conversationTitle": "Conversation 3: Ending a Conversation",
+          "dialogs": [
             {
-              "category": "countries",
-              "words": [
-                "Brazil",
-                "Australia",
-                "Germany",
-                "South Africa",
-                "The United States",
-                "Japan"
-              ]
+              "phrase": "Bye!",
+              "speaker": "A",
+              "order": 1
             },
             {
-              "category": "cities",
-              "words": [
-                "Brasilia",
-                "Sidney",
-                "Berlin",
-                "Durban",
-                "New York",
-                "Tokyo"
-              ]
+              "phrase": "See you later.",
+              "speaker": "B",
+              "order": 2
             }
-          ],
-          "conversations": [
+          ]
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Lesson 3: Personal Introductions",
+      "lessonSubtitle": "When is your birthday?",
+      "lessonAvaliable": true,
+      "lessonOrder": 3,
+      "objectives": [
+        {
+          "objectiveDescription": ". I will learn to ask for and say someone’s birthday, phone number, and address."
+        },
+        {
+          "objectiveDescription": "I will learn to say my birthday, phone number, and address."
+        }
+      ],
+      "targetPhrases": [
+        "When is your birthday?",
+        "My birthday is July 11th.",
+        "What’s your phone number?",
+        "My phone number is 706-863-9400.",
+        "What’s your address?",
+        "My address is 512 West Fourth Street.",
+        "What’s your email?",
+        "My email is susanjones@email.net."
+      ],
+      "vocabulary": [
+        {
+          "category": "months",
+          "words": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+          ]
+        },
+        {
+          "category": "cardinal numbers",
+          "words": [
+            "zero",
+            "one",
+            "two",
+            "three",
+            "four",
+            "five",
+            "six",
+            "seven",
+            "eight",
+            "nine",
+            "ten"
+          ]
+        },
+        {
+          "category": "ordinal numbers",
+          "words": [
+            "first",
+            "second",
+            "third",
+            "fourth",
+            "fifth",
+            "sixth",
+            "seventh",
+            "eighth",
+            "nineth",
+            "tenth"
+          ]
+        }
+      ],
+      "conversations": [
+        {
+          "conversationTitle": "Conversation 1",
+          "dialogs": [
             {
-              "conversationTitle": "Conversation 1: Meeting Someone New",
-              "dialogs": [
-                {
-                  "phrase": "Good morning!",
-                  "speaker": "A",
-                  "order": 1
-                },
-                {
-                  "phrase": "Hi! What’s your name?",
-                  "speaker": "B",
-                  "order": 2
-                },
-                {
-                  "phrase": "My name is Misah. What’s your name?",
-                  "speaker": "A",
-                  "order": 3
-                },
-                {
-                  "phrase": "I’m Aki. Where are you from?",
-                  "speaker": "B",
-                  "order": 4
-                },
-                {
-                  "phrase": "I’m from Moscow. Where are you from?",
-                  "speaker": "A",
-                  "order": 5
-                },
-                {
-                  "phrase": "I’m from Tokyo.",
-                  "speaker": "B",
-                  "order": 6
-                },
-                {
-                  "phrase": "Well, it’s nice to meet you.",
-                  "speaker": "A",
-                  "order": 7
-                },
-                {
-                  "phrase": "Nice to meet you too.",
-                  "speaker": "B",
-                  "order": 8
-                }
-              ]
+              "phrase": "When is your birthday?",
+              "speaker": "A",
+              "order": 1
             },
             {
-              "conversationTitle": "Conversation 2: Greeting a Friend",
-              "dialogs": [
-                {
-                  "phrase": "Hello!",
-                  "speaker": "A",
-                  "order": 1
-                },
-                {
-                  "phrase": "Hi! How are you?",
-                  "speaker": "B",
-                  "order": 2
-                },
-                {
-                  "phrase": "Fine, thanks. How are you?",
-                  "speaker": "A",
-                  "order": 3
-                },
-                {
-                  "phrase": "I’m fine.",
-                  "speaker": "B",
-                  "order": 4
-                }
-              ]
+              "phrase": "My birthday is March 30th.",
+              "speaker": "B",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "conversationTitle": "Conversation 2",
+          "dialogs": [
+            {
+              "phrase": "What’s your phone number?",
+              "speaker": "A",
+              "order": 1
             },
             {
-              "conversationTitle": "Conversation 3: Ending a Conversation",
-              "dialogs": [
-                {
-                  "phrase": "Bye!",
-                  "speaker": "A",
-                  "order": 1
-                },
-                {
-                  "phrase": "See you later.",
-                  "speaker": "B",
-                  "order": 2
-                }
-              ]
+              "phrase": "My phone number is 125-930-1988",
+              "speaker": "B",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "conversationTitle": "Conversation 3",
+          "dialogs": [
+            {
+              "phrase": "What’s your address?",
+              "speaker": "A",
+              "order": 1
+            },
+            {
+              "phrase": "My address is 906 Main Street.",
+              "speaker": "B",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "conversationTitle": "Conversation 4",
+          "dialogs": [
+            {
+              "phrase": "What’s your email?",
+              "speaker": "A",
+              "order": 1
+            },
+            {
+              "phrase": "My email is j.anderson@email.net.",
+              "speaker": "B",
+              "order": 2
             }
           ]
         }
       ]
     }
-
+  ]
+}
