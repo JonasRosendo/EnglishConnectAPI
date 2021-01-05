@@ -260,7 +260,7 @@
       "lessonOrder": 3,
       "objectives": [
         {
-          "objectiveDescription": ". I will learn to ask for and say someone’s birthday, phone number, and address."
+          "objectiveDescription": "I will learn to ask for and say someone’s birthday, phone number, and address."
         },
         {
           "objectiveDescription": "I will learn to say my birthday, phone number, and address."
@@ -406,103 +406,103 @@
       ]
     },
     {
-  "lessonTitle": "Lesson 4: Hobbies and Interests",
-  "lessonSubtitle": "What do you like to do?",
-  "lessonAvaliable": true,
-  "lessonOrder": 3,
-  "objectives": [
-    {
-      "objectiveDescription": "I will learn to say what I like to do."
-    },
-    {
-      "objectiveDescription": "I will learn to say what I don’t like to do."
-    },
-    {
-      "objectiveDescription": "I will learn to ask what someone likes to do."
-    }
-  ],
-  "targetPhrases": [],
-  "vocabulary": [
-    {
-      "category": "hobbies",
-      "words": [
-        "cook",
-        "shop",
-        "study",
-        "read",
-        "sleep",
-        "sing",
-        "play sports",
-        "watch movies and TV",
-        "listen to music",
-        "dance",
-        "paint",
-        "run"
-      ]
-    }
-  ],
-  "conversations": [
-    {
-      "conversationTitle": "Conversation 1",
-      "dialogs": [
+      "lessonTitle": "Lesson 4: Hobbies and Interests",
+      "lessonSubtitle": "What do you like to do?",
+      "lessonAvaliable": true,
+      "lessonOrder": 4,
+      "objectives": [
         {
-          "phrase": "What do you like to do?",
-          "speaker": "A",
-          "order": 1
+          "objectiveDescription": "I will learn to say what I like to do."
         },
         {
-          "phrase": "I like to play sports.",
-          "speaker": "B",
-          "order": 2
+          "objectiveDescription": "I will learn to say what I don’t like to do."
         },
         {
-          "phrase": "Me too!",
-          "speaker": "A",
-          "order": 3
+          "objectiveDescription": "I will learn to ask what someone likes to do."
+        }
+      ],
+      "targetPhrases": [],
+      "vocabulary": [
+        {
+          "category": "hobbies",
+          "words": [
+            "cook",
+            "shop",
+            "study",
+            "read",
+            "sleep",
+            "sing",
+            "play sports",
+            "watch movies and TV",
+            "listen to music",
+            "dance",
+            "paint",
+            "run"
+          ]
+        }
+      ],
+      "conversations": [
+        {
+          "conversationTitle": "Conversation 1",
+          "dialogs": [
+            {
+              "phrase": "What do you like to do?",
+              "speaker": "A",
+              "order": 1
+            },
+            {
+              "phrase": "I like to play sports.",
+              "speaker": "B",
+              "order": 2
+            },
+            {
+              "phrase": "Me too!",
+              "speaker": "A",
+              "order": 3
+            }
+          ]
+        },
+        {
+          "conversationTitle": "Conversation 2",
+          "dialogs": [
+            {
+              "phrase": "Do you like to cook?",
+              "speaker": "A",
+              "order": 1
+            },
+            {
+              "phrase": "No, not really. I don’t cook very often.",
+              "speaker": "B",
+              "order": 2
+            },
+            {
+              "phrase": "Me neither.",
+              "speaker": "A",
+              "order": 3
+            }
+          ]
+        },
+        {
+          "conversationTitle": "Conversation 3",
+          "dialogs": [
+            {
+              "phrase": "Do you like to dance?",
+              "speaker": "A",
+              "order": 1
+            },
+            {
+              "phrase": "Yeah, I really like to dance.",
+              "speaker": "B",
+              "order": 2
+            },
+            {
+              "phrase": "Me too!",
+              "speaker": "A",
+              "order": 3
+            }
+          ]
         }
       ]
-    },
-    {
-      "conversationTitle": "Conversation 2",
-      "dialogs": [
-        {
-          "phrase": "Do you like to cook?",
-          "speaker": "A",
-          "order": 1
-        },
-        {
-          "phrase": "No, not really. I don’t cook very often.",
-          "speaker": "B",
-          "order": 2
-        },
-        {
-          "phrase": "Me neither.",
-          "speaker": "A",
-          "order": 3
-        }
-      ]
-    },
-    {
-      "conversationTitle": "Conversation 3",
-      "dialogs": [
-        {
-          "phrase": "Do you like to dance?",
-          "speaker": "A",
-          "order": 1
-        },
-        {
-          "phrase": "Yeah, I really like to dance.",
-          "speaker": "B",
-          "order": 2
-        },
-        {
-          "phrase": "Me too!",
-          "speaker": "A",
-          "order": 3
-        }
-      ]
     }
-  ]
-}
   ]
 }
