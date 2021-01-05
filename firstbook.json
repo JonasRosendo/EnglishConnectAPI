@@ -505,111 +505,111 @@
       ]
     },
     {
-  "lessonTitle": "Lesson 5: Hobbies and Interests",
-  "lessonSubtitle": "Why do you like to shop?",
-  "lessonAvaliable": true,
-  "lessonOrder": 5,
-  "objectives": [
-    {
-      "objectiveDescription": "I will learn to say why I like something."
-    },
-    {
-      "objectiveDescription": "I will learn to say why I don’t like something."
-    }
-  ],
-  "targetPhrases": [],
-  "vocabulary": [
-    {
-      "category": "hobbies",
-      "words": [
-        "fun",
-        "easy",
-        "relaxing",
-        "important",
-        "boring",
-        "difficult",
-        "tiring",
-        "unimportant"
-      ]
-    }
-  ],
-  "conversations": [
-    {
-      "conversationTitle": "Conversation 1",
-      "dialogs": [
+      "lessonTitle": "Lesson 5: Hobbies and Interests",
+      "lessonSubtitle": "Why do you like to shop?",
+      "lessonAvaliable": true,
+      "lessonOrder": 5,
+      "objectives": [
         {
-          "phrase": "Do you like to shop?",
-          "speaker": "A",
-          "order": 1
+          "objectiveDescription": "I will learn to say why I like something."
         },
         {
-          "phrase": "Yes.",
-          "speaker": "B",
-          "order": 2
+          "objectiveDescription": "I will learn to say why I don’t like something."
+        }
+      ],
+      "targetPhrases": [],
+      "vocabulary": [
+        {
+          "category": "hobbies",
+          "words": [
+            "fun",
+            "easy",
+            "relaxing",
+            "important",
+            "boring",
+            "difficult",
+            "tiring",
+            "unimportant"
+          ]
+        }
+      ],
+      "conversations": [
+        {
+          "conversationTitle": "Conversation 1",
+          "dialogs": [
+            {
+              "phrase": "Do you like to shop?",
+              "speaker": "A",
+              "order": 1
+            },
+            {
+              "phrase": "Yes.",
+              "speaker": "B",
+              "order": 2
+            },
+            {
+              "phrase": "Really? Why?",
+              "speaker": "A",
+              "order": 3
+            },
+            {
+              "phrase": "I like to shop because it’s fun.",
+              "speaker": "B",
+              "order": 4
+            }
+          ]
         },
         {
-          "phrase": "Really? Why?",
-          "speaker": "A",
-          "order": 3
+          "conversationTitle": "Conversation 2",
+          "dialogs": [
+            {
+              "phrase": "Do you like to cook?",
+              "speaker": "A",
+              "order": 1
+            },
+            {
+              "phrase": "No.",
+              "speaker": "B",
+              "order": 2
+            },
+            {
+              "phrase": "Really? Why not?",
+              "speaker": "A",
+              "order": 3
+            },
+            {
+              "phrase": "I don’t like to cook because it’s boring.",
+              "speaker": "B",
+              "order": 4
+            }
+          ]
         },
         {
-          "phrase": "I like to shop because it’s fun.",
-          "speaker": "B",
-          "order": 4
+          "conversationTitle": "Conversation 3",
+          "dialogs": [
+            {
+              "phrase": "What do you like to do?",
+              "speaker": "A",
+              "order": 1
+            },
+            {
+              "phrase": "I like to read.",
+              "speaker": "B",
+              "order": 2
+            },
+            {
+              "phrase": "Really? Why?",
+              "speaker": "A",
+              "order": 3
+            },
+            {
+              "phrase": "I like to read because it is relaxing.",
+              "speaker": "B",
+              "order": 4
+            }
+          ]
         }
       ]
-    },
-    {
-      "conversationTitle": "Conversation 2",
-      "dialogs": [
-        {
-          "phrase": "Do you like to cook?",
-          "speaker": "A",
-          "order": 1
-        },
-        {
-          "phrase": "No.",
-          "speaker": "B",
-          "order": 2
-        },
-        {
-          "phrase": "Really? Why not?",
-          "speaker": "A",
-          "order": 3
-        },
-        {
-          "phrase": "I don’t like to cook because it’s boring.",
-          "speaker": "B",
-          "order": 4
-        }
-      ]
-    },
-    {
-      "conversationTitle": "Conversation 3",
-      "dialogs": [
-        {
-          "phrase": "What do you like to do?",
-          "speaker": "A",
-          "order": 1
-        },
-        {
-          "phrase": "I like to read.",
-          "speaker": "B",
-          "order": 2
-        },
-        {
-          "phrase": "Really? Why?",
-          "speaker": "A",
-          "order": 3
-        },
-        {
-          "phrase": "I like to read because it is relaxing.",
-          "speaker": "B",
-          "order": 4
-        }
-      ]
     }
-  ]
-}
   ]
 }
